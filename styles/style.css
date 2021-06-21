@@ -1,0 +1,54 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #FFFFFF;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #F0F0F0;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #000000;
+}
+
+.terminal {
+	width: 80ch;
+  height: 40ch;
+  background-color: #000000;
+
+  font-family: monospace;
+	font-size: 16px;
+  color: #ffffff;
+  word-wrap: break-word;
+
+  display: block;
+  margin: auto;
+	padding: 0px 0px 0px 0px;
+}
+
+canvas {
+  border: 1px solid black;
+  display: block;
+  margin: 0 auto;
+}
