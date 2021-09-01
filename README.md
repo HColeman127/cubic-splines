@@ -1,3 +1,3 @@
 # cubic-splines
 
-https://hcoleman127.github.io/cubic-splines/
+https://hmcol.github.io/cubic-splines/
